@@ -1,0 +1,15 @@
+{
+  "id": "savedSearchExcelExport",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "server": false,
+  "ui": true,
+  "requiredPlugins": [
+    "uiActions",
+    "embeddable"
+  ],
+  "optionalPlugins": [],
+  "requiredBundles": [
+    "discover"
+  ]
+}
