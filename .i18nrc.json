@@ -1,0 +1,7 @@
+{
+  "prefix": "savedSearchExcelExport",
+  "paths": {
+    "savedSearchExcelExport": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
